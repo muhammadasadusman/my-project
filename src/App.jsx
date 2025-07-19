@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Hamburger from './Components/Hamburger';
-import Part2 from './Components/part2';
+import Part2 from './Components/Part2';
 import Services from './Components/Services';
 import Buisness from './Components/Buisness';
 import Work from './Components/Work';
